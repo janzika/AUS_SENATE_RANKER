@@ -1,9 +1,9 @@
 # AUSTRALIAN SENATE RANKER
 By Jan Zika (jan.david.zika at gmail.com)
 
-Spreadsheets to make it easier to rank candidates on at Australian Elections
+THis is where I am putting spreadsheets I have made to make it easier to rank candidates at Australian Elections.
 
-The spreadsheets in this repository are provided as is without any garauntee of quality nor lack of bugs or errors.
+The spreadsheets in this repository are provided 'as is' without any garauntee of quality nor lack of bugs or errors.
 
 I made these spreadsheets to make it easier for me and others to number every candiate below the line at the Australian Federal Election.
 
