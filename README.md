@@ -1,4 +1,4 @@
-# AUS_SENATE_RANKER
+# AUSTRALIAN SENATE RANKER
 By Jan Zika (jan.david.zika at gmail.com)
 
 Spreadsheets to make it easier to rank candidates on at Australian Elections
